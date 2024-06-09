@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @playsenge
-- 👀 I’m interested in Minecraft, programming, video editing and cool computer stuff
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on making a cool Minecraft server or other programming projects
-- 📫 Reach me using email (playsenge@gmail.com) or Discord (https://discord.gg/Uss3dSUsEF)
+## hi!
+
+I'm senge1337. I barely use GitHub, so make sure to check out my <a href="https://senge1337.cc">website</a>! ^_^ 
 
 
 <!---
